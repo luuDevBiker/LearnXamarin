@@ -1,0 +1,40 @@
+C:\Users\admin\OneDrive\Tài liệu\musicApp\AppMusic\AppMusic\AppMusic\bin\Debug\netstandard2.0\AppMusic.deps.json
+C:\Users\admin\OneDrive\Tài liệu\musicApp\AppMusic\AppMusic\AppMusic\bin\Debug\netstandard2.0\AppMusic.dll
+C:\Users\admin\OneDrive\Tài liệu\musicApp\AppMusic\AppMusic\AppMusic\bin\Debug\netstandard2.0\ref\AppMusic.dll
+C:\Users\admin\OneDrive\Tài liệu\musicApp\AppMusic\AppMusic\AppMusic\bin\Debug\netstandard2.0\AppMusic.pdb
+C:\Users\admin\OneDrive\Tài liệu\musicApp\AppMusic\AppMusic\AppMusic\obj\Debug\netstandard2.0\AppMusic.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Tài liệu\musicApp\AppMusic\AppMusic\AppMusic\obj\Debug\netstandard2.0\AppMusic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Tài liệu\musicApp\AppMusic\AppMusic\AppMusic\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\admin\OneDrive\Tài liệu\musicApp\AppMusic\AppMusic\AppMusic\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\admin\OneDrive\Tài liệu\musicApp\AppMusic\AppMusic\AppMusic\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\admin\OneDrive\Tài liệu\musicApp\AppMusic\AppMusic\AppMusic\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\admin\OneDrive\Tài liệu\musicApp\AppMusic\AppMusic\AppMusic\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\admin\OneDrive\Tài liệu\musicApp\AppMusic\AppMusic\AppMusic\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\admin\OneDrive\Tài liệu\musicApp\AppMusic\AppMusic\AppMusic\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\admin\OneDrive\Tài liệu\musicApp\AppMusic\AppMusic\AppMusic\obj\Debug\netstandard2.0\AppMusic.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Tài liệu\musicApp\AppMusic\AppMusic\AppMusic\obj\Debug\netstandard2.0\AppMusic.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Tài liệu\musicApp\AppMusic\AppMusic\AppMusic\obj\Debug\netstandard2.0\AppMusic.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Tài liệu\musicApp\AppMusic\AppMusic\AppMusic\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\admin\OneDrive\Tài liệu\musicApp\AppMusic\AppMusic\AppMusic\obj\Debug\netstandard2.0\AppMusic.dll
+C:\Users\admin\OneDrive\Tài liệu\musicApp\AppMusic\AppMusic\AppMusic\obj\Debug\netstandard2.0\ref\AppMusic.dll
+C:\Users\admin\OneDrive\Tài liệu\musicApp\AppMusic\AppMusic\AppMusic\obj\Debug\netstandard2.0\AppMusic.pdb
+D:\musicApp\AppMusic\AppMusic\AppMusic\bin\Debug\netstandard2.0\AppMusic.deps.json
+D:\musicApp\AppMusic\AppMusic\AppMusic\bin\Debug\netstandard2.0\AppMusic.dll
+D:\musicApp\AppMusic\AppMusic\AppMusic\bin\Debug\netstandard2.0\ref\AppMusic.dll
+D:\musicApp\AppMusic\AppMusic\AppMusic\bin\Debug\netstandard2.0\AppMusic.pdb
+D:\musicApp\AppMusic\AppMusic\AppMusic\obj\Debug\netstandard2.0\AppMusic.csproj.AssemblyReference.cache
+D:\musicApp\AppMusic\AppMusic\AppMusic\obj\Debug\netstandard2.0\AppMusic.GeneratedMSBuildEditorConfig.editorconfig
+D:\musicApp\AppMusic\AppMusic\AppMusic\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\musicApp\AppMusic\AppMusic\AppMusic\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\musicApp\AppMusic\AppMusic\AppMusic\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\musicApp\AppMusic\AppMusic\AppMusic\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+D:\musicApp\AppMusic\AppMusic\AppMusic\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+D:\musicApp\AppMusic\AppMusic\AppMusic\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+D:\musicApp\AppMusic\AppMusic\AppMusic\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+D:\musicApp\AppMusic\AppMusic\AppMusic\obj\Debug\netstandard2.0\AppMusic.AssemblyInfoInputs.cache
+D:\musicApp\AppMusic\AppMusic\AppMusic\obj\Debug\netstandard2.0\AppMusic.AssemblyInfo.cs
+D:\musicApp\AppMusic\AppMusic\AppMusic\obj\Debug\netstandard2.0\AppMusic.csproj.CoreCompileInputs.cache
+D:\musicApp\AppMusic\AppMusic\AppMusic\obj\Debug\netstandard2.0\XamlC.stamp
+D:\musicApp\AppMusic\AppMusic\AppMusic\obj\Debug\netstandard2.0\AppMusic.dll
+D:\musicApp\AppMusic\AppMusic\AppMusic\obj\Debug\netstandard2.0\ref\AppMusic.dll
+D:\musicApp\AppMusic\AppMusic\AppMusic\obj\Debug\netstandard2.0\AppMusic.pdb

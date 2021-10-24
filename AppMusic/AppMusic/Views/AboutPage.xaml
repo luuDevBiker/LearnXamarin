@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppMusic.Views.AboutPage"
+             xmlns:vm="clr-namespace:AppMusic.ViewModels"
+             Title="{Binding Title}">
+    
+    <ContentPage.BindingContext>
+        <vm:AboutViewModel />
+    </ContentPage.BindingContext>
+    
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Color x:Key="Accent">#96d1ff</Color>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <Grid>
+        <Image Source="https://www.facebook.com/photo.php?fbid=1175257296326386&set=pb.100015263791794.-2207520000..&type=3"></Image>
+        <Button VerticalOptions="Center" Text="Hello Button click me"></Button>
+    </Grid>
+
+</ContentPage>
